@@ -1,3 +1,6 @@
+
+<img width="1087" alt="Screenshot 2024-09-02 at 14 43 11" src="https://github.com/user-attachments/assets/eef93019-0897-494c-82ce-d9a6e53c43d0">
+
 # Todo List Application
 
 This project is a simple Todo List application that allows users to manage their tasks effectively. Users can add, edit, delete, and view tasks with deadlines using a web interface.
